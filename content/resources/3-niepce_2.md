@@ -2,13 +2,17 @@
 content_type: resource
 description: "Enhanced version of Nice\u0301phore Nie\u0301pce's View from the Window\
   \ at Le Gras."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-049-french-photography-spring-2017/b106a5f8545d075e733407e2193c40ea_3.Niepce_2.jpg
+file: /media/courses/21g-049-french-photography-spring-2017/b106a5f8545d075e733407e2193c40ea_3.Niepce_2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "Manually manipulated image of Ni\xE9pce's \"View from the Window at Le\
     \ Gras.\""
   credit: 'Image is in the public domain. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce#/media/File:View_from_the_Window_at_Le_Gras,_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg).'
   image-alt: The courtyard at Le Gras from an upstairs window.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: "Ni\xE9pce Photos"
+parent_type: CourseSection
 resourcetype: Image
 title: Enhanced Version of View from the Window at Le Gras
 uid: b106a5f8-545d-075e-7334-07e2193c40ea

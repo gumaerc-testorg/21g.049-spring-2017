@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Visual Analysis Papers
+parent_type: CourseSection
 parent_uid: 6c9a455d-8374-1a2d-f31d-f3a4e0c2087d
 title: Harcourt Photos
 uid: 9792aef7-9004-f6b4-ad7c-3c3ce4d7b1e6

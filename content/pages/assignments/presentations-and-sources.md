@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 5bd3d34a-fffc-c08e-9a87-7b3fd05637da
 title: Presentations and Sources
 uid: 531dc9ed-4b52-fa86-6fe1-d5627d7b5a44
