@@ -18,6 +18,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Children playing skittles
 parent_type: CourseSection
+parent_uid: c08f7a8f-d308-1cdb-99c9-b52909e1fbea
 resourcetype: Image
 title: Children Playing Skittles
 uid: d5a2ba7d-57f9-98a4-fd36-431b91246bb8

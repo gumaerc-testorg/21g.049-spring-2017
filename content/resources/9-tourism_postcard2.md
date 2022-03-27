@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Tourism and Travel
 parent_type: CourseSection
+parent_uid: ba0ec526-d96f-111a-575e-41fddef5f8fa
 resourcetype: Image
 title: Postcard of the Eiffel Tower
 uid: 680c3543-050b-63d0-f9f4-9e4a14a382c6

@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Research & Investigation
 parent_type: CourseSection
+parent_uid: 2c972b73-d33f-d58f-7979-9a457a51f7ca
 resourcetype: Image
 title: Pelican in Flight
 uid: ed7547bd-47ee-a4e6-e0ff-972cbfb18e7c

@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Fading Away
 parent_type: CourseSection
+parent_uid: a80fc33d-083f-3b5e-e553-a951bacee641
 resourcetype: Image
 title: Fading_Away.jpg
 uid: 317466f8-5673-f8e9-3789-431ad2ee1a35

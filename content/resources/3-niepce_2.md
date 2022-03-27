@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: "Ni\xE9pce Photos"
 parent_type: CourseSection
+parent_uid: 3c45e491-599e-24a6-2f95-5e1517238299
 resourcetype: Image
 title: Enhanced Version of View from the Window at Le Gras
 uid: b106a5f8-545d-075e-7334-07e2193c40ea

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Research & Investigation
 parent_type: CourseSection
+parent_uid: 2c972b73-d33f-d58f-7979-9a457a51f7ca
 resourcetype: Image
 title: Hummingbird
 uid: 410918d8-a3ba-07d5-c4e4-9b5a476159ea

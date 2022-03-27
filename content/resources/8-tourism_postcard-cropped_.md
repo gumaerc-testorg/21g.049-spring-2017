@@ -19,6 +19,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Tourism and Travel
 parent_type: CourseSection
+parent_uid: ba0ec526-d96f-111a-575e-41fddef5f8fa
 resourcetype: Image
 title: Postcard of a Moorish Woman
 uid: d1e2c8de-fb65-f2c4-a134-aef1a0b40354
