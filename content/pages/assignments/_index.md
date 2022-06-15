@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the assignment details for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ Students will write a review (1,100 words) of the exhibition “Charlotte Moth: 
 Visual Analysis Papers
 ----------------------
 
-Students will submit 3 visual analysis papers (1,300 words each) over the course of the semester. These papers will use visual and formal analysis as well as context discussed in readings and in class to explore the meaning of one image or a pair of images. Students will have the option of writing about the materials presented in different weeks. These papers are due the Wednesday after we discuss the topic in class. [More details about the Visual Analysis Papers]({{< baseurl >}}/pages/assignments/visual-analysis-papers).
+Students will submit 3 visual analysis papers (1,300 words each) over the course of the semester. These papers will use visual and formal analysis as well as context discussed in readings and in class to explore the meaning of one image or a pair of images. Students will have the option of writing about the materials presented in different weeks. These papers are due the Wednesday after we discuss the topic in class. {{% resource_link 6c9a455d-8374-1a2d-f31d-f3a4e0c2087d "More details about the Visual Analysis Papers" %}}.
 
 Writing Advisor Meeting
 -----------------------

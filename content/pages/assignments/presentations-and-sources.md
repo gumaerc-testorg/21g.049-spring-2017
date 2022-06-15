@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains detailed information about the presentation assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

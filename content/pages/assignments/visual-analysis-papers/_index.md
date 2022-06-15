@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides detailed information about the visual analysis assignments
+  in the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
