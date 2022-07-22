@@ -15,6 +15,7 @@ image_metadata:
   image-alt: A group of four boys playing with multicolored wooden toys on a cobblestone
     street amidst rubble.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Children playing skittles
 parent_type: CourseSection
@@ -24,4 +25,3 @@ title: Children Playing Skittles
 uid: d5a2ba7d-57f9-98a4-fd36-431b91246bb8
 ---
 "Children playing skittles, Place d'Erlon", Marne, Rheims, January-March 1917. Autochrome by Fernand Cuville. 
-

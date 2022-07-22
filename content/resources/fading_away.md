@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fading_Away.jpg).'
   image-alt: A young woman reclining in her death bed surrounded by her family.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Fading Away
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Fading_Away.jpg
 uid: 317466f8-5673-f8e9-3789-431ad2ee1a35
 ---
 Fading Away, composite photograph made from five negatives by Henry Peach Robinson, 1858; in the George Eastman Collection, Rochester, New York.
-

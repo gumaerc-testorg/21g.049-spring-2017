@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Image is in the public domain. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras#/media/File:Point_de_vue_du_Gras_by_Ni%C3%A9pce,_1826.jpg).'
   image-alt: The first surviving permanent direct positive photo.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: "Ni\xE9pce Photos"
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: View from the Window at Le Gras
 uid: c3e28341-74a4-2a89-c56c-3a1a5bcc0eff
 ---
 Nicéphore Niépce's "View from the Window at Le Gras."
-

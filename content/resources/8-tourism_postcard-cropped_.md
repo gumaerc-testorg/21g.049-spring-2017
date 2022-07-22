@@ -16,6 +16,7 @@ image_metadata:
   image-alt: Postcard of a jailed bare-chested woman posing with a tambourine above
     her head.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Tourism and Travel
 parent_type: CourseSection
@@ -25,4 +26,3 @@ title: Postcard of a Moorish Woman
 uid: d1e2c8de-fb65-f2c4-a134-aef1a0b40354
 ---
 Postcard of a jailed bare-chested woman posing with a tambourine above her head. The writing translates: Algerian types. Moorish woman. Handwritten: "I am sending you a package for pickup at the railway station. The babies are doing well; they have just walked by the beach. I shall write you shortly at greater length. Warm kisses to you all. [signed:] Martha."
-
