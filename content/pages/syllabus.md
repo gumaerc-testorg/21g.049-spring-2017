@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e1123ff4-e666-a9f0-c5bd-b339668c1e5a
 ---
@@ -48,7 +51,7 @@ Assignments
 
 **Paper Revisions and Expansion**: Students will revise and expand one paper based on feedback from the instructor.
 
-In-depth details about these can be found in the [Assignments section]({{< baseurl >}}/pages/assignments).
+In-depth details about these can be found in the {{% resource_link 5bd3d34a-fffc-c08e-9a87-7b3fd05637da "Assignments section" %}}.
 
 Grading
 -------

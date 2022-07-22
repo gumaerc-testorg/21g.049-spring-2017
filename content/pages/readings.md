@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section lists the readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6d4817ab-cde1-4cc2-74ce-3a54c7243035
 ---
@@ -59,7 +63,7 @@ No readings.
 {{< tdopen >}}
 The Decisive Moment with Special Guest Dr. Nadya Bair
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Watch
@@ -98,7 +102,7 @@ Making the News
 {{< tdopen >}}
 Is it Technology?
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Watch
@@ -143,7 +147,7 @@ Is it Magic? With Special Guest Photographer Wilfrid Rouff
 {{< tdopen >}}
 Albert Kahn & The Archives de la Planète
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Read
@@ -184,7 +188,7 @@ Aerial photography and surveillance
 {{< tdopen >}}
 From Early Portraiture to the Selfie
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Read
@@ -223,7 +227,7 @@ Photography, Identity, & Resemblance
 {{< tdopen >}}
 Protest Photography from May ’68 to Nuit Debut
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Read
@@ -262,7 +266,7 @@ Photography and the President
 {{< tdopen >}}
 Documenting Urbanism
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Watch
@@ -305,7 +309,7 @@ People in the Streets
 {{< tdopen >}}
 Peer Review Workshop
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Watch
@@ -342,7 +346,7 @@ Visit to the MIT Museum – Berenice Abbott Archive
 {{< tdopen >}}
 Photography & Painting
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Read
@@ -407,7 +411,7 @@ Reviews by Sean O'Hagan: [Profile: Sean O'Hagan](http://www.theguardian.com/prof
 {{< tdopen >}}
 The Postcard
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Read
@@ -442,7 +446,7 @@ Snapshot photography
 {{< tdopen >}}
 Museum Visit
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Read
@@ -479,7 +483,7 @@ Photography and the Art Market / Museum
 {{< tdopen >}}
 Photographs as Witnesses
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Read
@@ -518,7 +522,7 @@ Photography as Crime
 {{< tdopen >}}
 Humanist photography
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Read

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section lists additional resources for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 4f04d25a-a1dd-c613-85c5-529160d13a91
 ---
