@@ -15,7 +15,7 @@ Week 9
 
 You may write about a photo from the Tourneboeuf exhibition, as long as you did not already write about the photo in depth in your exhibition review.
 
-*   [Tourneboeuf exhibition](https://mitmuseum.mit.edu/exhibition/tourneboeuf)
+*   {{% resource_link "2dd60253-72a2-40e8-add7-93b1c648a422" "Tourneboeuf exhibition" %}}
 
 Week 10
 -------
