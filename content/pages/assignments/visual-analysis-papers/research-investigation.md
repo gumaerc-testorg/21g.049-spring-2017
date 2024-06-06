@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This section provides photos for a visual analysis assignment.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Visual Analysis Papers
@@ -9,7 +10,6 @@ parent_uid: 6c9a455d-8374-1a2d-f31d-f3a4e0c2087d
 title: Research & Investigation
 uid: 2c972b73-d33f-d58f-7979-9a457a51f7ca
 ---
-
 ### Research & Investigation
 
 Write about one of the two photographs, or compare them:

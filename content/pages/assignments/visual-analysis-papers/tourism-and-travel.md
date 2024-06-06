@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This section provides photos for a visual analysis assignment.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Visual Analysis Papers
@@ -9,13 +10,12 @@ parent_uid: 6c9a455d-8374-1a2d-f31d-f3a4e0c2087d
 title: Tourism and Travel
 uid: ba0ec526-d96f-111a-575e-41fddef5f8fa
 ---
-
 Week 9
 ------
 
 You may write about a photo from the Tourneboeuf exhibition, as long as you did not already write about the photo in depth in your exhibition review.
 
-*   {{% resource_link "2dd60253-72a2-40e8-add7-93b1c648a422" "Tourneboeuf exhibition" %}}
+*   [Tourneboeuf exhibition](https://mitmuseum.mit.edu/exhibition/tourneboeuf)
 
 Week 10
 -------
