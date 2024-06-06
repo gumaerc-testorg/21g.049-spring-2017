@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This section provides photos for a visual analysis assignment.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Visual Analysis Papers
@@ -9,7 +10,6 @@ parent_uid: 6c9a455d-8374-1a2d-f31d-f3a4e0c2087d
 title: Fading Away
 uid: a80fc33d-083f-3b5e-e553-a951bacee641
 ---
-
 Week 8
 ------
 
