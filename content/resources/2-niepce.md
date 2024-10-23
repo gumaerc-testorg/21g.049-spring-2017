@@ -2,7 +2,7 @@
 content_type: resource
 description: "Nice\u0301phore Ni\xE9pce's \"View from the Window at Le Gras.\""
 draft: false
-file: /courses/21g-049-french-photography-spring-2017/c3e2834174a42a89c56c3a1a5bcc0eff_2.Niepce.jpg
+file: /ol-ocw-studio-app/courses/21g-049-french-photography-spring-2017/c3e2834174a42a89c56c3a1a5bcc0eff_2.Niepce.jpg
 file_size: 94673
 file_type: image/jpeg
 image_metadata:
