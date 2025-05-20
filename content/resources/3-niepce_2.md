@@ -3,7 +3,7 @@ content_type: resource
 description: "Enhanced version of Nice\u0301phore Nie\u0301pce's View from the Window\
   \ at Le Gras."
 draft: false
-file: /ol-ocw-studio-app/courses/21g-049-french-photography-spring-2017/b106a5f8545d075e733407e2193c40ea_3.Niepce_2.jpg
+file: /courses/21g-049-french-photography-spring-2017/b106a5f8545d075e733407e2193c40ea_3.Niepce_2.jpg
 file_size: 84841
 file_type: image/jpeg
 image_metadata:

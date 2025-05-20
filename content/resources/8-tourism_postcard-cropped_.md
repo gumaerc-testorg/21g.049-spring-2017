@@ -6,7 +6,7 @@ description: 'Postcard of a jailed bare-chested woman posing with a tambourine a
   well; they have just walked by the beach. I shall write you shortly at greater length.
   Warm kisses to you all. [signed:] Martha."'
 draft: false
-file: /ol-ocw-studio-app/courses/21g-049-french-photography-spring-2017/d1e2c8defb65f2c4a134aef1a0b40354_8.Tourism_Postcard-cropped_.jpg
+file: /courses/21g-049-french-photography-spring-2017/d1e2c8defb65f2c4a134aef1a0b40354_8.Tourism_Postcard-cropped_.jpg
 file_size: 73895
 file_type: image/jpeg
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: Fading Away, composite photograph made from five negatives by Henry Peach
   Robinson, 1858; in the George Eastman Collection, Rochester, New York.
 draft: false
-file: /ol-ocw-studio-app/courses/21g-049-french-photography-spring-2017/317466f85673f8e93789431ad2ee1a35_Fading_Away.jpg
+file: /courses/21g-049-french-photography-spring-2017/317466f85673f8e93789431ad2ee1a35_Fading_Away.jpg
 file_size: 77447
 file_type: image/jpeg
 image_metadata:
