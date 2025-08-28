@@ -4,7 +4,7 @@ description: 'Postcard of the Eiffel Tower with writing. The writing translates:
   15, 1904. In remembrance of the last day I was in Paris." A young woman mailed it
   from Paris to her home address in Leipzig.'
 draft: false
-file: /courses/21g-049-french-photography-spring-2017/680c3543050b63d0f9f49e4a14a382c6_9.Tourism_Postcard2.jpg
+file: /ol-ocw-studio-app/courses/21g-049-french-photography-spring-2017/680c3543050b63d0f9f49e4a14a382c6_9.Tourism_Postcard2.jpg
 file_size: 80582
 file_type: image/jpeg
 image_metadata:
