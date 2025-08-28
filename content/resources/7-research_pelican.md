@@ -3,7 +3,7 @@ content_type: resource
 description: "Composite photo of a pelican in flight by \xC9tienne-Jules Marey, c.\
   \ 1880s."
 draft: false
-file: /courses/21g-049-french-photography-spring-2017/ed7547bd47eea4e6e0ff972cbfb18e7c_7.Research_Pelican.jpg
+file: /ol-ocw-studio-app/courses/21g-049-french-photography-spring-2017/ed7547bd47eea4e6e0ff972cbfb18e7c_7.Research_Pelican.jpg
 file_size: 45096
 file_type: image/jpeg
 image_metadata:
