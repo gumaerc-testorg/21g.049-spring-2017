@@ -33,19 +33,19 @@ Week 4: Capturing the World
 
 ### Aerial Photography and WWI
 
-Haffner, Jeanne. “From Enthusiasm to Expertise: Aerial Vision from Before the Airplane to the Aftermath of World War I.” In [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262018791) *The View from Above: The Science of Social Space*. MIT Press, 2013. ISBN: 9780262018791.
+Haffner, Jeanne. “From Enthusiasm to Expertise: Aerial Vision from Before the Airplane to the Aftermath of World War I.” In {{% resource_link "ba027cdb-8429-46d6-b905-9c6bc84ca716" "![Buy at MIT Press](/images/mp_logo.gif)" %}} *The View from Above: The Science of Social Space*. MIT Press, 2013. ISBN: 9780262018791.
 
-Gettinger, Dan. “[The Ultimate Way of Seeing: Aerial Photography in WWI](http://dronecenter.bard.edu/wwi-photography/).” Center for the study of the Drone at Bard College, January 28, 2014.
+Gettinger, Dan. “{{% resource_link "94d919f8-7456-4eb6-8359-3c5d13aed7dc" "The Ultimate Way of Seeing: Aerial Photography in WWI" %}}.” Center for the study of the Drone at Bard College, January 28, 2014.
 
-Taylor, Alan. “[World War I in Photos: Aerial Warfare](https://www.theatlantic.com/photo/2014/04/world-war-i-in-photos-aerial-warfare/507326/).” The Atlantic, April 27, 2014.
+Taylor, Alan. “{{% resource_link "815dd38c-17a7-458f-9c04-e315e13a994c" "World War I in Photos: Aerial Warfare" %}}.” The Atlantic, April 27, 2014.
 
 ### Satellite Photography
 
-Gunthert, André. “[Blue Marble: La terre vue de l’espace](http://histoirevisuelle.fr/cv/icones/2296).” L’atelier des icônes, January 31, 2012.
+Gunthert, André. “{{% resource_link "4a68869e-ce6e-411e-a717-c41ca18d5883" "Blue Marble: La terre vue de l’espace" %}}.” L’atelier des icônes, January 31, 2012.
 
 Dorrian, Mark. “On Google Earth.” In *Seeing from Above: The Aerial View in Visual Culture* (2013). ISBN: 978-1780764610.
 
-Metz, Cade. “[Paired with AI and VR, Google Earth will Change the Planet](https://web.archive.org/web/20200214040315/https://www.wired.com/2015/06/paired-ai-vr-google-earth-will-change-planet/).” Wired, June 29, 2015.
+Metz, Cade. “{{% resource_link "1e0f66c6-b770-49a7-8d60-664b65137d61" "Paired with AI and VR, Google Earth will Change the Planet" %}}.” Wired, June 29, 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 5: Likeness & Identity
@@ -61,7 +61,7 @@ Pellicer, Raynal. *The Photobooth*. Abrahms, 2011. ISBN: 978-0810996113.
 
 ### Claude Cahun
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262681063) Cahun, Claude, Maya Deren, and Cindy Sherman. *Inverted Odysseys*. Shelley Rice, ed. MIT Press, 1999. ISBN: 9780262681063.
+{{% resource_link "915a95db-42ea-41bb-a51f-406ec5d066fc" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cahun, Claude, Maya Deren, and Cindy Sherman. *Inverted Odysseys*. Shelley Rice, ed. MIT Press, 1999. ISBN: 9780262681063.
 
 *Don’t Kiss Me: The Art of Claude Cahun and Marcel Moore*. Louise Downie, ed. Aperture / Tate, 2006. ISBN: 978-1597110259.
 
@@ -71,31 +71,31 @@ Week 6: Politics, Propaganda, and Protest
 
 ### Photography and Nuit Debout \[French\]
 
-Lennard, Natasha, and Nicholas Mirzoeff, “[What Protests Look Like](https://www.nytimes.com/2016/08/03/opinion/what-protest-looks-like.html). The New York Times, March 2, 2017.
+Lennard, Natasha, and Nicholas Mirzoeff, “{{% resource_link "fcafee87-d297-4734-9068-24eb64c2b550" "What Protests Look Like" %}}. The New York Times, March 2, 2017.
 
-“[Rencontre: Francis Azevedo, photographe pour ‘Nuit debout](https://inferno-magazine.com/2016/05/24/rencontre-francis-azevedo-photographe-pour-nuit-debout/).’” Inferno, May 24, 2016.
+“{{% resource_link "0ebba44d-40ba-4c86-bae9-b913bc702a94" "Rencontre: Francis Azevedo, photographe pour ‘Nuit debout" %}}.’” Inferno, May 24, 2016.
 
-Blavignat, Yohan. “[La photo iconique d’un CRS qui frappe une étudiante devient virale](http://www.lefigaro.fr/actualite-france/2016/04/15/01016-20160415ARTFIG00315-la-photo-iconique-d-un-crs-qui-frappe-une-etudiante-devient-virale.php).” Le Figaro, April 15, 2016.
+Blavignat, Yohan. “{{% resource_link "a03faa8c-0f86-4d3b-b3e5-e17a000aa2f8" "La photo iconique d’un CRS qui frappe une étudiante devient virale" %}}.” Le Figaro, April 15, 2016.
 
 ### Photography and Black Lives Matter
 
-Mirzoeff, Nicholas D. “[#Blackliveslooking: How Ferguson Taught us not to Look Away.](https://theconversation.com/how-ferguson-and-blacklivesmatter-taught-us-not-to-look-away-45815)” The Conversation, August 10, 2015.
+Mirzoeff, Nicholas D. “{{% resource_link "5fb47355-d0fb-4335-887b-2cc339b9b039" "#Blackliveslooking: How Ferguson Taught us not to Look Away." %}}” The Conversation, August 10, 2015.
 
-Mirzoeff, Nicholas D. “[How the Jim Crow Internet is Pushing Back Against Black Lives Matter.](https://newrepublic.com/article/137163/jim-crow-internet-pushing-back-black-lives-matter)” New Republic, September 26, 2016.
+Mirzoeff, Nicholas D. “{{% resource_link "7d07a708-ddd7-4a9e-b274-f655f55623e8" "How the Jim Crow Internet is Pushing Back Against Black Lives Matter." %}}” New Republic, September 26, 2016.
 
-Cole, Teju. “[On Photography: The Superhero Photographs of the Black Lives Matter Movement](https://www.nytimes.com/2016/07/31/magazine/the-superhero-photographs-of-the-black-lives-matter-movement.html).” The New York Times Magazine, July 26, 2016.
+Cole, Teju. “{{% resource_link "eeafdc19-57d7-48b6-98e8-197aa86672f4" "On Photography: The Superhero Photographs of the Black Lives Matter Movement" %}}.” The New York Times Magazine, July 26, 2016.
 
-McKnight, Matthew. “[Black as We Wanna Be.](https://www.thenation.com/article/archive/black-as-we-wanna-be/)” The Nation, October 10, 2016.
+McKnight, Matthew. “{{% resource_link "3f2e72ae-6fed-4828-a57b-efbaa9d3da5b" "Black as We Wanna Be." %}}” The Nation, October 10, 2016.
 
 ### Sarkozy, the American \[French\]
 
-“[Nicolas Sarkozy et les médias, l’amour haine](https://www.franceinter.fr/politique/nicolas-sarkozy-et-les-medias-l-amour-haine).” France Inter, September 8, 2016.
+“{{% resource_link "f4f8d62f-99c7-40b3-93f3-44c0b8910ce3" "Nicolas Sarkozy et les médias, l’amour haine" %}}.” France Inter, September 8, 2016.
 
-Delporte, Christian. “[Sarkozy and the Media](http://www.tandfonline.com/doi/full/10.1080/17409292.2012.675668).” *Contemporary French and Francophone Studies* 16, no. 3 (2012): 299–310.
+Delporte, Christian. “{{% resource_link "44638664-b98b-40d9-8051-b6a1bd19275c" "Sarkozy and the Media" %}}.” *Contemporary French and Francophone Studies* 16, no. 3 (2012): 299–310.
 
-Orth, Maureen. “[Paris Match](https://www.vanityfair.com/news/2008/09/bruni200809).” Vanity Fair, September 2008.
+Orth, Maureen. “{{% resource_link "2c8b1320-18ff-4430-93da-759d6aef33e3" "Paris Match" %}}.” Vanity Fair, September 2008.
 
-[La Conquête](http://www.imdb.com/title/tt1711484/). Directed by Xavier Durringer. Color, 105 min. 2011. \[Optional\]
+{{% resource_link "a9ff7515-32da-499d-8fc1-69d2831a5223" "La Conquête" %}}. Directed by Xavier Durringer. Color, 105 min. 2011. \[Optional\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 7: Urban Exploration (Street Photography)
@@ -109,15 +109,15 @@ Sramek, Peter. *Piercing time: Paris after Marville and Atget: 1865–2012.* In
 
 ### Germaine Krull
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194013) Sichel, Kim. *Germaine Krull: Photographer of Modernity*. MIT Press, 1999. ISBN: 978-0262194013.
+{{% resource_link "ff16b93e-c216-44b4-8e16-6ded33d0d5b0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Sichel, Kim. *Germaine Krull: Photographer of Modernity*. MIT Press, 1999. ISBN: 978-0262194013.
 
 Krull, Germaine. *100 x Paris*. Verlag der Reihe, 1929.
 
 ### Robert Doisneau
 
-Vestberg, Nina Lager. “[Robert Doisneau and the Making of a Universal Cliché](http://www.tandfonline.com/doi/abs/10.1080/03087298.2011.521329).” *History of Photography* 35, no. 2 (2011): 157–165.
+Vestberg, Nina Lager. “{{% resource_link "85972fd0-1353-44ce-8ea0-0b7b6e34e2fa" "Robert Doisneau and the Making of a Universal Cliché" %}}.” *History of Photography* 35, no. 2 (2011): 157–165.
 
-“Robert Doisneau: Photographer Technique & Process.” C.N.P / La Sept / RIFF, 1989. \[Watch on [YouTube](https://www.youtube.com/watch?v=PRq8o39-XoE).\]
+“Robert Doisneau: Photographer Technique & Process.” C.N.P / La Sept / RIFF, 1989. \[Watch on {{% resource_link "98982483-249f-4443-8d7b-47f0c6e54c78" "YouTube" %}}.\]
 
 Ollier, Brigitte. *Doisneau Paris*. Ginko Press, 1996. ISBN: 978-3927258341.
 
@@ -151,7 +151,7 @@ Week 9: Tourism & Travel
 
 ### Postcards of Paris
 
-Schor, Naomi. “[Cartes Postales: Representing Paris 1900](https://www.jstor.org/stable/1343782).” *Critical Inquiry* 18, no.2 (1992): 188–244.
+Schor, Naomi. “{{% resource_link "c8f4a782-cbfb-474c-bcb4-f530300ad73e" "Cartes Postales: Representing Paris 1900" %}}.” *Critical Inquiry* 18, no.2 (1992): 188–244.
 
 See instructor for more references.
 
@@ -177,7 +177,7 @@ Week 14: Photography and Law
 
 Fineman, Mia. Faking it: Manipulated Photography Before Photoshop. Metropolitan Museum of Art, 2012. ISBN: 978-0300185010.
 
-Przyblyski, Jeannene M. “[Revolution at a Standstill: Photography and the Paris Commune of 1871](http://www.jstor.org/stable/3090606).”  *Yale French Studies* 101 (2001): 54–78.
+Przyblyski, Jeannene M. “{{% resource_link "e4db9da1-dd21-4e5f-9a88-249d40e0aeef" "Revolution at a Standstill: Photography and the Paris Commune of 1871" %}}.”  *Yale French Studies* 101 (2001): 54–78.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 15: Spreading the News II 
@@ -185,6 +185,6 @@ Week 15: Spreading the News II 
 
 ### Robert Capa’s “The Falling Solider”
 
-Follow the controversy about and history of this photo [starting on the Lens blog](http://lens.blogs.nytimes.com/2013/10/22/finding-a-fearless-photographers-voice/).
+Follow the controversy about and history of this photo {{% resource_link "ffa7215c-1f01-40b1-80bd-66eade74fc5a" "starting on the Lens blog" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

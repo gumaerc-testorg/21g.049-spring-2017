@@ -17,19 +17,19 @@ Week 5
 
 Compare the two photos:
 
-*   [Brigitte Bardot](http://www.yellowkorner.com/dw/image/v2/AAVG_PRD/on/demandware.static/-/Sites-photo-catalog/default/dw300bf5cd/CELEBRITIES_HISTORY/59/159/683.jpg) , portrait by Studio Harcourt, 1954
-*   [Jean Renoir](http://files.idnworld.com/events/files/2013/IFC-StudioHarcourtParis.jpg), portrait by Studio Harcourt, c.1980s
+*   {{% resource_link "2002e4b4-0f52-45cc-9e53-c14c72c792bd" "Brigitte Bardot" %}} , portrait by Studio Harcourt, 1954
+*   {{% resource_link "c92436d0-fd18-416b-8fa0-d568ac7750b3" "Jean Renoir" %}}, portrait by Studio Harcourt, c.1980s
 
 Week 6
 ------
 
 This photo was taken in August 2016. Released by Vantage News, no photographer named:
 
-*   [Burkini Ban in Nice](https://static.independent.co.uk/s3fs-public/styles/article_large/public/thumbnails/image/2016/08/24/12/burkini-blur.jpg)
+*   {{% resource_link "e9ba4c19-b91b-4882-bb24-376720a4ee8c" "Burkini Ban in Nice" %}}
 
 Week 7
 ------
 
 Write about the following photograph:
 
-*   Jon Rafman, "[Rue des Poissonniers, Paris, France](http://www.saatchigallery.com/artists/artpages/jon_rafman_rue_de_poissonniers.htm)," 2009
+*   Jon Rafman, "{{% resource_link "2616d723-2c8c-4fea-a233-efde6d438b95" "Rue des Poissonniers, Paris, France" %}}," 2009
