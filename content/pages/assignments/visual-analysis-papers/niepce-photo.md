@@ -17,14 +17,14 @@ Week 1
 
 Write about the following photograph:
 
-*   [Jonathan Bachman, Baton Rouge, LA, July 10, 2016](https://www.theguardian.com/us-news/2016/jul/11/baton-rouge-protester-photo-iesha-evans#img-1)
+*   {{% resource_link "0c8ba6b9-7c2d-4528-9705-cb049b757807" "Jonathan Bachman, Baton Rouge, LA, July 10, 2016" %}}
 
 Week 2
 ------
 
 Write about the following photograph:
 
-*   Henri Cartier-Bresson, "[Behind the Gare St. Lazare,](https://www.theguardian.com/artanddesign/2014/dec/23/henri-cartier-bresson-the-decisive-moment-reissued-photography#img-1)" Paris, 1932
+*   Henri Cartier-Bresson, "{{% resource_link "8461da0a-869c-49de-a879-220e4322670f" "Behind the Gare St. Lazare," %}}" Paris, 1932
 
 Week 3
 ------

@@ -18,13 +18,13 @@ Over the course of the semester, students are required to submit 3 visual analys
 
 Write about the following photograph:
 
-- [Jonathan Bachman, Baton Rouge, LA, July 10, 2016](https://www.theguardian.com/us-news/2016/jul/11/baton-rouge-protester-photo-iesha-evans#img-1)
+- {{% resource_link "0c8ba6b9-7c2d-4528-9705-cb049b757807" "Jonathan Bachman, Baton Rouge, LA, July 10, 2016" %}}
 
 ## Week 2
 
 Write about the following photograph:
 
-- Henri Cartier-Bresson, "[Behind the Gare St. Lazare,](https://www.theguardian.com/artanddesign/2014/dec/23/henri-cartier-bresson-the-decisive-moment-reissued-photography#img-1)" Paris, 1932
+- Henri Cartier-Bresson, "{{% resource_link "8461da0a-869c-49de-a879-220e4322670f" "Behind the Gare St. Lazare," %}}" Paris, 1932
 
 ## Week 3
 
@@ -42,20 +42,20 @@ In 1917, Fernand Cuville was employed by both the Photography section of the Fre
 
 Compare the two photos:
 
-- [Brigitte Bardot](http://www.yellowkorner.com/dw/image/v2/AAVG_PRD/on/demandware.static/-/Sites-photo-catalog/default/dw300bf5cd/CELEBRITIES_HISTORY/59/159/683.jpg) , portrait by Studio Harcourt, 1954
-- [Jean Renoir](http://files.idnworld.com/events/files/2013/IFC-StudioHarcourtParis.jpg), portrait by Studio Harcourt, c.1980s
+- {{% resource_link "2002e4b4-0f52-45cc-9e53-c14c72c792bd" "Brigitte Bardot" %}} , portrait by Studio Harcourt, 1954
+- {{% resource_link "c92436d0-fd18-416b-8fa0-d568ac7750b3" "Jean Renoir" %}}, portrait by Studio Harcourt, c.1980s
 
 ## Week 6
 
 This photo was taken in August 2016. Released by Vantage News, no photographer named:
 
-- [Burkini Ban in Nice](https://static.independent.co.uk/s3fs-public/styles/article_large/public/thumbnails/image/2016/08/24/12/burkini-blur.jpg)
+- {{% resource_link "e9ba4c19-b91b-4882-bb24-376720a4ee8c" "Burkini Ban in Nice" %}}
 
 ## Week 7
 
 Write about the following photograph:
 
-- Jon Rafman, "[Rue des Poissonniers, Paris, France](http://www.saatchigallery.com/artists/artpages/jon_rafman_rue_de_poissonniers.htm)," 2009
+- Jon Rafman, "{{% resource_link "2616d723-2c8c-4fea-a233-efde6d438b95" "Rue des Poissonniers, Paris, France" %}}," 2009
 
 ### Research & Investigation
 
@@ -72,7 +72,7 @@ Write about Henry Peach Robinson's, "Fading Away" 1858, which is a composite pho
 
 You may write about a photo from the Tourneboeuf exhibition, as long as you did not already write about the photo in depth in your exhibition review.
 
-- [Tourneboeuf exhibition](https://mitmuseum.mit.edu/exhibition/tourneboeuf)
+- {{% resource_link "86125cfc-225c-4bec-8035-2a60c353d5a4" "Tourneboeuf exhibition" %}}
 
 ## Week 10
 

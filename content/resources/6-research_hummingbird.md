@@ -7,8 +7,10 @@ file_size: 41623
 file_type: image/jpeg
 image_metadata:
   caption: Doc Edgerton, high-speed photograph of a hummingbird, mid-twentieth century.
-    @ 2010 MIT. Courtesy of MIT Museum. [Edgerton Digital Collections](http://edgerton-digital-collections.org).
-  credit: '@ 2010 MIT. Courtesy of MIT Museum. [Edgerton Digital Collections](http://edgerton-digital-collections.org).'
+    @ 2010 MIT. Courtesy of MIT Museum. {{% resource_link "2e989888-ab1f-416e-a090-3fff64c81123"
+    "Edgerton Digital Collections" %}}.
+  credit: '@ 2010 MIT. Courtesy of MIT Museum. {{% resource_link "2e989888-ab1f-416e-a090-3fff64c81123"
+    "Edgerton Digital Collections" %}}.'
   image-alt: A hummingbird in mid flight.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
